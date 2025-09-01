@@ -13,8 +13,10 @@ status BOOLEAN DEFAULT true,
 create_at TIMESTAMPTZ DEFAULT now (),
 create_at TIMESTAMPTZ DEFAULT now (),
 create_at TIMESTAMPTZ DEFAULT now ()
-
 );
+
+
+
 
 
 
