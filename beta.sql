@@ -13,6 +13,9 @@ status BOOLEAN DEFAULT true,
 create_at TIMESTAMPTZ DEFAULT now (),
 create_at TIMESTAMPTZ DEFAULT now (),
 create_at TIMESTAMPTZ DEFAULT now ()
+
 );
+
+
 
 INSERT INTO users (id_number, firstname, lastname, mobile_number, email, password) VALUES('870546754','RICHARD','CASTILLO',' 31235464',' RD@GMAIL','1234')
